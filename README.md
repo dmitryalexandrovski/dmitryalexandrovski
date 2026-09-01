@@ -16,13 +16,11 @@
     <em>Building technology at the intersection of software, AI and high-stakes healthcare problems</em>
   </p>
 
-  <br/>
-
-  <p align="center">
-    <a href="https://cortexneo.digital/"><img src="https://img.shields.io/badge/CortexNeo-cortexneo.digital-161B22?style=flat-square&logo=google-chrome&logoColor=00D9FF" alt="CortexNeo"/></a>&nbsp;
-    <a href="https://www.linkedin.com/in/dmitryalexandrovski"><img src="https://img.shields.io/badge/LinkedIn-dmitryalexandrovski-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
-    <a href="https://x.com/dmitryalexandrovski"><img src="https://img.shields.io/badge/X-@dmitryalexandrovski-161B22?style=flat-square&logo=x&logoColor=FFFFFF" alt="X"/></a>&nbsp;
-    <a href="https://t.me/dmitryalexandrovski"><img src="https://img.shields.io/badge/Telegram-@dmitryalexandrovski-161B22?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
+  <p>
+    <a href="https://cortexneo.digital/"><strong>cortexneo.digital</strong></a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/dmitryalexandrovski"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+    <a href="https://x.com/dmitryalexandrovski"><strong>X (Twitter)</strong></a> &nbsp;·&nbsp;
+    <a href="https://t.me/dmitryalexandrovski"><strong>Telegram</strong></a>
   </p>
 
 </div>
@@ -52,12 +50,6 @@ Right now, most of my time goes into **CortexNeo** — a MedTech startup focused
 * 🔬 **Explainable AI** doctors can trust
 * ⚡ **Fast inference** and decision-support pipelines
 * 🏥 **Integration** into real clinical workflows
-
-<br/>
-
-<div align="center">
-  <a href="https://cortexneo.digital/"><img src="https://img.shields.io/badge/Explore%20CortexNeo-161B22?style=flat-square&logo=google-chrome&logoColor=00D9FF" alt="Explore CortexNeo"/></a>
-</div>
 
 ---
 
@@ -106,14 +98,14 @@ Right now, most of my time goes into **CortexNeo** — a MedTech startup focused
 
 <div align="center">
 
-#### **CortexNeo**
+#### **[CortexNeo](https://cortexneo.digital/)**
 **AI-powered clinical decision support for ischemic stroke**
 
 `Medical Imaging` · `AI/ML` · `MedTech` · `Clinical Decision Support`
 
-<br/>
-
-<a href="https://cortexneo.digital/"><img src="https://img.shields.io/badge/Visit%20CortexNeo-161B22?style=flat-square&logo=google-chrome&logoColor=00D9FF" alt="Visit CortexNeo"/></a>
+<p>
+  🌐 <a href="https://cortexneo.digital/"><strong>cortexneo.digital</strong></a>
+</p>
 
 </div>
 
@@ -129,13 +121,13 @@ Right now, most of my time goes into **CortexNeo** — a MedTech startup focused
 
 ### 🌐 Let's Connect
 
-If you're interested in **AI, MedTech, software engineering, startups or building something useful** — feel free to reach out.
+If you're interested in **AI, MedTech, software engineering, startups or building something useful** — feel free to reach out:
 
 <p align="center">
-  <a href="https://cortexneo.digital/"><img src="https://img.shields.io/badge/CortexNeo-cortexneo.digital-161B22?style=flat-square&logo=google-chrome&logoColor=00D9FF" alt="CortexNeo"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/dmitryalexandrovski"><img src="https://img.shields.io/badge/LinkedIn-dmitryalexandrovski-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://x.com/dmitryalexandrovski"><img src="https://img.shields.io/badge/X-@dmitryalexandrovski-161B22?style=flat-square&logo=x&logoColor=FFFFFF" alt="X"/></a>&nbsp;
-  <a href="https://t.me/dmitryalexandrovski"><img src="https://img.shields.io/badge/Telegram-@dmitryalexandrovski-161B22?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
+  🌐 <a href="https://cortexneo.digital/"><strong>cortexneo.digital</strong></a> &nbsp;•&nbsp;
+  💼 <a href="https://www.linkedin.com/in/dmitryalexandrovski"><strong>LinkedIn</strong></a> &nbsp;•&nbsp;
+  🐦 <a href="https://x.com/dmitryalexandrovski"><strong>X (Twitter)</strong></a> &nbsp;•&nbsp;
+  💬 <a href="https://t.me/dmitryalexandrovski"><strong>Telegram</strong></a>
 </p>
 
 <div align="center">

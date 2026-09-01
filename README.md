@@ -1,8 +1,7 @@
 <div align="center">
 
-  <!-- Cinematic 3D Volumetric Neural & Medical Imaging Banner -->
   <a href="https://cortexneo.digital/">
-    <img src="./assets/banner.jpg" alt="Dmitry Alexandrovski - CortexNeo AI" width="100%" style="border-radius: 12px;"/>
+    <img src="./assets/banner.jpg" alt="Dmitry Alexandrovski - CortexNeo" width="100%" style="border-radius: 12px;"/>
   </a>
 
   <br/><br/>
@@ -10,25 +9,27 @@
   <h1>Dmitry Alexandrovski</h1>
 
   <p>
-    <strong>Co-founder &amp; CTO @ <a href="https://cortexneo.digital/">CortexNeo</a></strong> · <strong>AI Engineer &amp; Full Stack Architect</strong>
+    <strong>AI Engineer &amp; Full Stack Developer</strong> &nbsp;•&nbsp; <strong>Co-founder &amp; CTO of <a href="https://cortexneo.digital/">CortexNeo</a></strong>
   </p>
 
   <p>
-    <em>Building high-reliability AI systems &amp; clinical decision tools for real-world healthcare</em>
+    <em>Building technology at the intersection of software, AI and high-stakes healthcare problems</em>
   </p>
 
+  <br/>
+
   <p align="center">
-    <a href="https://cortexneo.digital/"><img src="https://img.shields.io/badge/CortexNeo-cortexneo.digital-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=000&labelColor=0D1117" alt="CortexNeo Website"/></a>&nbsp;
-    <a href="https://www.linkedin.com/in/dmitryalexandrovski"><img src="https://img.shields.io/badge/LinkedIn-dmitryalexandrovski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-    <a href="https://x.com/dmitryalexandrovski"><img src="https://img.shields.io/badge/X-@dmitryalexandrovski-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>&nbsp;
-    <a href="https://t.me/dmitryalexandrovski"><img src="https://img.shields.io/badge/Telegram-@dmitryalexandrovski-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <a href="https://cortexneo.digital/"><img src="https://img.shields.io/badge/CortexNeo-cortexneo.digital-161B22?style=flat-square&logo=google-chrome&logoColor=00D9FF" alt="CortexNeo"/></a>&nbsp;
+    <a href="https://www.linkedin.com/in/dmitryalexandrovski"><img src="https://img.shields.io/badge/LinkedIn-dmitryalexandrovski-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
+    <a href="https://x.com/dmitryalexandrovski"><img src="https://img.shields.io/badge/X-@dmitryalexandrovski-161B22?style=flat-square&logo=x&logoColor=FFFFFF" alt="X"/></a>&nbsp;
+    <a href="https://t.me/dmitryalexandrovski"><img src="https://img.shields.io/badge/Telegram-@dmitryalexandrovski-161B22?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
   </p>
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Dmitry
+### 👋 About Me
 
 I'm an **AI Engineer, Full Stack Developer and Co-founder & CTO of CortexNeo**.
 
@@ -38,77 +39,87 @@ Right now, most of my time goes into **CortexNeo** — a MedTech startup focused
 
 ---
 
-## 🚀 Featured Project: [CortexNeo](https://cortexneo.digital/)
+### 🧠 What I'm Building
 
-<table width="100%">
-  <tr>
-    <td>
-      <h3>⚡ AI-Powered Clinical Decision Support for Ischemic Stroke</h3>
-      <p>
-        <strong>CortexNeo</strong> is developing an advanced clinical decision support system that analyzes <strong>3D CT imaging data and clinical parameters</strong> to help physicians assess the risk of hemorrhagic transformation after acute ischemic stroke.
-      </p>
-      <blockquote>
-        <em>"Turn complex medical data into clear, explainable information that can help a doctor make a decision when every minute matters."</em>
-      </blockquote>
-      <p><strong>Core Focus Areas:</strong></p>
-      <ul>
-        <li>🧠 <strong>AI/ML Medical Imaging:</strong> Deep volumetric feature extraction from 3D CT scans.</li>
-        <li>🩻 <strong>Clinical Data Pipelines:</strong> Seamless ingestion &amp; processing of DICOM and NIfTI data.</li>
-        <li>🔬 <strong>Explainable Clinical AI:</strong> Transparent, verifiable model reasoning tailored for physician trust.</li>
-        <li>⚡ <strong>High-Throughput Serving:</strong> Low-latency inference engines for emergency workflows.</li>
-        <li>🏥 <strong>Hospital Integration:</strong> Zero-friction embedding into clinical EHR and PACS environments.</li>
-      </ul>
-      <p align="left">
-        👉 <strong>Official Website:</strong> <a href="https://cortexneo.digital/">cortexneo.digital</a>
-      </p>
-    </td>
-  </tr>
-</table>
+**CortexNeo** is developing an AI-powered clinical decision support system that analyzes **3D CT data and clinical parameters** to help assess the risk of hemorrhagic transformation after ischemic stroke.
+
+> **"Turn complex medical data into clear, explainable information that can help a doctor make a decision when every minute matters."**
+
+#### The system is engineered around:
+* 🧠 **AI/ML analysis** of medical imaging
+* 🩻 **3D CT / DICOM** data processing
+* 📊 **Clinical data** processing & modeling
+* 🔬 **Explainable AI** doctors can trust
+* ⚡ **Fast inference** and decision-support pipelines
+* 🏥 **Integration** into real clinical workflows
+
+<br/>
+
+<div align="center">
+  <a href="https://cortexneo.digital/"><img src="https://img.shields.io/badge/Explore%20CortexNeo-161B22?style=flat-square&logo=google-chrome&logoColor=00D9FF" alt="Explore CortexNeo"/></a>
+</div>
 
 ---
 
-## 🛠️ Technical Arsenal
+### 🛠️ What I Work With
 
 <div align="center">
 
-### 🧠 AI &amp; Machine Learning
+#### 🧠 AI / Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX"/>
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>&nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="scikit-learn"/>&nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-161B22?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>&nbsp;
+  <img src="https://img.shields.io/badge/ONNX-161B22?style=flat-square&logo=onnx&logoColor=005CED" alt="ONNX"/>
 </p>
 
-### 💻 Backend &amp; Full Stack
+#### 💻 Backend / Full Stack
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis"/>
 </p>
 
-### ⚙️ Infrastructure &amp; Tooling
+#### ⚙️ Infrastructure / Tools
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </p>
 
-### 🏥 Medical Imaging &amp; Formats
+#### 🏥 Medical Data
 <p>
-  <img src="https://img.shields.io/badge/DICOM-008080?style=flat-square&logo=files&logoColor=white" alt="DICOM"/>
-  <img src="https://img.shields.io/badge/NIfTI-0052CC?style=flat-square&logo=blueprint&logoColor=white" alt="NIfTI"/>
+  <img src="https://img.shields.io/badge/DICOM-161B22?style=flat-square&logo=files&logoColor=00D9FF" alt="DICOM"/>&nbsp;
+  <img src="https://img.shields.io/badge/NIfTI-161B22?style=flat-square&logo=blueprint&logoColor=00D9FF" alt="NIfTI"/>
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+### 🚀 Featured Project
+
+<div align="center">
+
+#### **CortexNeo**
+**AI-powered clinical decision support for ischemic stroke**
+
+`Medical Imaging` · `AI/ML` · `MedTech` · `Clinical Decision Support`
+
+<br/>
+
+<a href="https://cortexneo.digital/"><img src="https://img.shields.io/badge/Visit%20CortexNeo-161B22?style=flat-square&logo=google-chrome&logoColor=00D9FF" alt="Visit CortexNeo"/></a>
+
+</div>
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dmitryalexandrovski&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=58A6FF" alt="GitHub Streak Stats" />
@@ -116,15 +127,15 @@ Right now, most of my time goes into **CortexNeo** — a MedTech startup focused
 
 ---
 
-## 🌐 Let's Connect
+### 🌐 Let's Connect
 
-If you're interested in **AI, MedTech, software engineering, startups or building something impactful** — feel free to reach out.
+If you're interested in **AI, MedTech, software engineering, startups or building something useful** — feel free to reach out.
 
 <p align="center">
-  <a href="https://cortexneo.digital/"><img src="https://img.shields.io/badge/CortexNeo-cortexneo.digital-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=000&labelColor=0D1117" alt="CortexNeo"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/dmitryalexandrovski"><img src="https://img.shields.io/badge/LinkedIn-dmitryalexandrovski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://x.com/dmitryalexandrovski"><img src="https://img.shields.io/badge/X-@dmitryalexandrovski-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>&nbsp;
-  <a href="https://t.me/dmitryalexandrovski"><img src="https://img.shields.io/badge/Telegram-@dmitryalexandrovski-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://cortexneo.digital/"><img src="https://img.shields.io/badge/CortexNeo-cortexneo.digital-161B22?style=flat-square&logo=google-chrome&logoColor=00D9FF" alt="CortexNeo"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/dmitryalexandrovski"><img src="https://img.shields.io/badge/LinkedIn-dmitryalexandrovski-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://x.com/dmitryalexandrovski"><img src="https://img.shields.io/badge/X-@dmitryalexandrovski-161B22?style=flat-square&logo=x&logoColor=FFFFFF" alt="X"/></a>&nbsp;
+  <a href="https://t.me/dmitryalexandrovski"><img src="https://img.shields.io/badge/Telegram-@dmitryalexandrovski-161B22?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
 </p>
 
 <div align="center">

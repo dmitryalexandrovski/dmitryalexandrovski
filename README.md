@@ -4,15 +4,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:161B22,70:0052CC,100:00F0FF&height=240&section=header&text=Dmitry%20Alexandrovski&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Infrastructure%20Architect%20%E2%80%A2%20Modern%20Healthcare%20Systems%20%E2%80%A2%20CortexNeo&descAlignY=62&descAlign=50&descFontSize=16&descColor=A5D6FF" alt="Dmitry Alexandrovski Banner" width="100%" />
 
   <!-- Animated Typing Tagline -->
-  <a href="https://x.com/cortexneomt">
+  <a href="https://cortexneo.digital/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Building+robust+AI+infrastructure+for+modern+healthcare+%F0%9F%8F%A5;Integrating+complex+medical+data+into+clinical+workflows+%F0%9F%A7%AC;Replacing+legacy+hospital+systems+with+trustworthy+AI+%E2%9A%A1;Architect+%26+Founder+%40+CortexNeo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/dmtrydev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://x.com/dmtrydev"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
-    <a href="https://x.com/cortexneomt"><img src="https://img.shields.io/badge/CortexNeo-00D4FF?style=for-the-badge&logo=x&logoColor=000&labelColor=0d1117" alt="CortexNeo X" /></a>
-    <a href="https://t.me/dmtrydev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://cortexneo.digital/"><img src="https://img.shields.io/badge/CortexNeo%20Website-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0d1117" alt="CortexNeo Website" /></a>
+    <a href="https://www.linkedin.com/in/dmitryalexandrovski"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/dmitryalexandrovski"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
+    <a href="https://t.me/dmitryalexandrovski"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   </p>
 
 </div>
@@ -25,7 +25,7 @@
 identity:
   name: Dmitry Alexandrovski
   role: Healthcare AI Systems & Infrastructure Architect
-  venture: CortexNeo (@cortexneomt)
+  venture: CortexNeo (https://cortexneo.digital)
   mission: "Replacing fragile hospital monoliths with transparent, explainable AI that doctors genuinely trust."
   specialization:
     - Mission-Critical Distributed AI Serving
@@ -41,7 +41,7 @@ identity:
 
 ---
 
-### 🚀 Featured Project: [CortexNeo](https://x.com/cortexneomt)
+### 🚀 Featured Project: [CortexNeo](https://cortexneo.digital/)
 
 <table width="100%">
   <tr>
@@ -51,7 +51,7 @@ identity:
         <strong>CortexNeo</strong> is dedicated to transforming clinical workflows through transparent, high-throughput AI orchestration. By harmonizing complex multimodal healthcare data with verifiable clinical reasoning engines, CortexNeo empowers physicians with real-time, actionable insights while upholding the highest standards of data security, provenance, and clinical safety.
       </p>
       <p>
-        👉 <strong>Follow the development & updates on X:</strong> <a href="https://x.com/cortexneomt">@cortexneomt</a>
+        🌐 <strong>Official Website:</strong> <a href="https://cortexneo.digital/">cortexneo.digital</a>
       </p>
     </td>
   </tr>
@@ -136,20 +136,20 @@ identity:
 ### 🌐 Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dmtrydev">
-    <img src="https://img.shields.io/badge/LinkedIn-dmtrydev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://cortexneo.digital/">
+    <img src="https://img.shields.io/badge/Website-cortexneo.digital-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0d1117" alt="CortexNeo" />
   </a>
   &nbsp;
-  <a href="https://x.com/dmtrydev">
-    <img src="https://img.shields.io/badge/Twitter/X-@dmtrydev-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  <a href="https://www.linkedin.com/in/dmitryalexandrovski">
+    <img src="https://img.shields.io/badge/LinkedIn-dmitryalexandrovski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://x.com/cortexneomt">
-    <img src="https://img.shields.io/badge/Project-@cortexneomt-00D4FF?style=for-the-badge&logo=x&logoColor=000&labelColor=0d1117" alt="CortexNeo" />
+  <a href="https://x.com/dmitryalexandrovski">
+    <img src="https://img.shields.io/badge/Twitter/X-@dmitryalexandrovski-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="https://t.me/dmtrydev">
-    <img src="https://img.shields.io/badge/Telegram-@dmtrydev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/dmitryalexandrovski">
+    <img src="https://img.shields.io/badge/Telegram-@dmitryalexandrovski-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 

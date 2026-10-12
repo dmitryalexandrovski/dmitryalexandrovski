@@ -60,40 +60,7 @@ Currently serving as **Co-founder & CTO at [CortexNeo](https://cortexneo.digital
 
 ---
 
-### ⚡ 03 // ARCHITECTURE BLUEPRINT: CORTEXNEO
-
-```
-                                  CORTEXNEO INFERENCE PIPELINE
-    ┌─────────────────────────┐               ┌─────────────────────────────────┐
-    │  Raw DICOM / 3D CT Vol  │ ────────────> │ Spatial Resampling & Hounsfield │
-    └─────────────────────────┘               │ Calibration Engine (Iso-voxel)  │
-                                              └─────────────────────────────────┘
-                                                               │
-                                                               ▼
-    ┌─────────────────────────┐               ┌─────────────────────────────────┐
-    │ Patient Clinical Matrix │ ────────────> │ Multi-Modal Feature Fusion Core │
-    │ (Vitals, Lab, Timeline) │               │   (Covariate + Volumetric)      │
-    └─────────────────────────┘               └─────────────────────────────────┘
-                                                               │
-                                                               ▼
-    ┌───────────────────────────────────────────────────────────────────────────┐
-    │          Deep Volumetric Segmentation & Hemorrhage Risk Network           │
-    │            • 3D Swin-Transformer Backbone                                 │
-    │            • Spatial Cross-Attention Layers                               │
-    │            • Uncertainty Quantification Head (Monte Carlo Dropout)        │
-    └───────────────────────────────────────────────────────────────────────────┘
-                                       │
-                  ┌────────────────────┴────────────────────┐
-                  ▼                                         ▼
-    ┌───────────────────────────┐             ┌───────────────────────────┐
-    │ 3D Risk Heatmap & XAI     │             │ Sub-Second API Response   │
-    │ Attribution Vector        │             │ to Neuro-Interventionists │
-    └───────────────────────────┘             └───────────────────────────┘
-```
-
----
-
-### 🛠️ 04 // CORE WEAPONRY & TECHNOLOGY MATRIX
+### 🛠️ 03 // CORE WEAPONRY & TECHNOLOGY MATRIX
 
 <div align="center">
 
@@ -126,7 +93,7 @@ Currently serving as **Co-founder & CTO at [CortexNeo](https://cortexneo.digital
 
 ---
 
-### 📊 05 // TELEMETRY & SYSTEM VELOCITY
+### 📊 04 // TELEMETRY & SYSTEM VELOCITY
 
 <div align="center">
 
@@ -138,7 +105,7 @@ Currently serving as **Co-founder & CTO at [CortexNeo](https://cortexneo.digital
 
 ---
 
-### 🌐 06 // TRANSMISSION & COLLABORATION
+### 🌐 05 // TRANSMISSION & COLLABORATION
 
 I am always interested in discussing **biomedical foundation models, high-bandwidth neural interfaces, low-latency machine learning systems, and early-stage deep tech ventures**.
 
